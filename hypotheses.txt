@@ -1,0 +1,8 @@
+Language and International Success: 
+Non-English language films have lower average revenues compared to English-language films.
+
+Budget and Revenue Correlation: 
+Higher production budgets lead to higher box office revenues.
+
+Effect of Movie Duration on User Ratings: 
+Longer movies receive higher user ratings than shorter ones.
