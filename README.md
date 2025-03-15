@@ -26,5 +26,5 @@ Les données utilisées proviennent de Kaggle : [The Movies Dataset](https://www
 4. Ouvrez Jupyter Notebook et exécutez les notebooks.
 
 ## Auteur
-Ristovski Mile
-Assamoua 
+Ristovski Mile  
+KOMAN Assamoua Leslie Georges 
