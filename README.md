@@ -15,7 +15,7 @@ Les données utilisées proviennent de Kaggle : [The Movies Dataset](https://www
 ## Installation
 1. Clonez le dépôt :
    ```bash
-   git clone [<URL_DU_REPO>](https://github.com/Mileristovski/DataReporting-Movies.git)
+   git clone https://github.com/Mileristovski/DataReporting-Movies.git
    cd DataReporting-Movies
    ```
 2. Installez les dépendances :
